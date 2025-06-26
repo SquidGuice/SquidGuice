@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.redd.it/myjz2rcy32nb1.jpg"  />
+<img align="right" height="150" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/3257180/168bc877f6d8c2f1716792d94280b3da3602273e.gif"  />
 
 ###
 
